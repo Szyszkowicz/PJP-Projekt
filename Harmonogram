@@ -5,5 +5,5 @@ Harmonogram:
 4. Wykonanie obiektów kolizyjnych typu drzewa, skały
 5. Implementacja przeciwników
 6. Implementacja wioski, dodanie budynków, tekstur błota, drewna, elementów uzupełniających otoczenie (beczki, oręż itp.) Usprawnienie gry (usunięcie zbędnych koliderów) 
-7. Wykonanie prostego zadania do wykonania przez gracza i licznik punktów
-8. Dopieszczenie szczegółów, eliminacja błędów, usprawnienia, uzupełnienie animacji
+7. Wykonanie animacji, dodanie dodatkowych elementów świata, poprawa wyglądu
+8. Wykonanie prostego zadania dla gracza
