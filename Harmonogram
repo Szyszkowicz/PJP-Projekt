@@ -6,4 +6,4 @@ Harmonogram:
 5. Implementacja przeciwników
 6. Implementacja wioski, dodanie budynków, tekstur błota, drewna, elementów uzupełniających otoczenie (beczki, oręż itp.) Usprawnienie gry (usunięcie zbędnych koliderów) 
 7. Wykonanie animacji, dodanie dodatkowych elementów świata, poprawa wyglądu
-8. Wykonanie prostego zadania dla gracza (eliminacja wszystkich wrogów). Naprawa błędów. Dodanie efektów cieniowania, pór dnia.
+8. Naprawa błędów(poprawienie kolizji z górami ograniczającymi teren świata, poprawienie kolizji płotów w wiosce). Dodanie efektów cieniowania, post procesing, flary. 
